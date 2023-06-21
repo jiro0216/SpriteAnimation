@@ -41,3 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: lava
+    uniqueID: 257729235
+    locked: 0
+  - name: wall
+    uniqueID: 3580893035
+    locked: 0
+  - name: floor
+    uniqueID: 2603506251
+    locked: 0
+  - name: player
+    uniqueID: 3893494841
+    locked: 0
