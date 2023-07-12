@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - coin
   layers:
   - Default
   - TransparentFX
@@ -52,4 +53,7 @@ TagManager:
     locked: 0
   - name: player
     uniqueID: 3893494841
+    locked: 0
+  - name: Coins
+    uniqueID: 3050377731
     locked: 0
